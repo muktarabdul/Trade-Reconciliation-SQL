@@ -1,0 +1,11 @@
+symbol,description,asset_class,multiplier,tick_size
+CLZ6,Crude oil future,commodities,1000,0.01
+GCZ6,Gold future,commodities,100,0.1
+ESZ6,E-mini S&P future,futures,50,0.25
+ZNZ6,10-year note future,futures,1000,0.015625
+ESZ6C6100,E-mini S&P call option,options,50,0.25
+AAPL,Apple equity,equities,1,0.01
+MSFT,Microsoft equity,equities,1,0.01
+EURUSD,Euro spot FX,fx,100000,0.0001
+GBPUSD,Sterling spot FX,fx,100000,0.0001
+BTCUSD,Bitcoin spot,crypto,1,1.0
