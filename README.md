@@ -44,5 +44,3 @@ python generate_data.py
 python build_db.py
 python validation/check.py
 ```
-
-Built with AI assistance while learning SQL.
